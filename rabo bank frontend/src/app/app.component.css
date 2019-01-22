@@ -1,0 +1,25 @@
+.header {
+    padding: 30px;
+    /* height: 100px; */
+    background: #e3ddff;
+    vertical-align: middle;
+    text-align: center;
+}
+.inputForm {
+    padding: 25px;
+    /* border: 1px black; */
+}
+.filterSection {
+    float: right;
+}
+.results table {
+    width: 100%;
+    /* border: 0.5px solid black; */
+}
+.results thead {
+    color: white;
+    background: #3417b9;
+}
+.results tbody tr:nth-child(odd) {
+    background: #e3ddff;
+}
